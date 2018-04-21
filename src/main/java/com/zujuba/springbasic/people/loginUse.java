@@ -60,7 +60,7 @@ public class loginUse {
 
     @RequestMapping(value = "/")
     public String userLogin() {
-        logger.info("run in userLogin ");
+        logger.info("run in userLogin1 ");
 ////        创建一个sql的会议，标准格式；
 //        SqlSession sqlSession = getSessionFactory().openSession();
 ////        UserMapper userMapper = sqlSession.getMapper(UserMapper.class);
