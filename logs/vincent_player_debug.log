@@ -1,0 +1,16 @@
+2018-04-20 19:06:57  [ main:0 ] - [ DEBUG ]  This is debug message.
+2018-04-20 19:06:57  [ main:2 ] - [ INFO ]  This is info message.
+2018-04-20 19:06:57  [ main:2 ] - [ ERROR ]  This is error message.
+2018-04-20 19:09:44  [ main:0 ] - [ INFO ]  This is info message111.
+2018-04-20 19:39:47  [ http-nio-8080-exec-5:0 ] - [ INFO ]  run in logintest1 
+2018-04-20 19:39:47  [ http-nio-8080-exec-5:2 ] - [ INFO ]  testuseclass1 is com.zujuba.springbasic.people.testuseclass@5c7819c4
+2018-04-20 19:42:46  [ http-nio-8080-exec-8:178818 ] - [ INFO ]  run in logintest1 
+2018-04-20 19:42:46  [ http-nio-8080-exec-8:178818 ] - [ INFO ]  testuseclass1 is com.zujuba.springbasic.people.testuseclass@4250e5d
+2018-04-20 19:48:10  [ http-nio-8080-exec-10:503049 ] - [ INFO ]  run in logintest1 
+2018-04-20 19:48:10  [ http-nio-8080-exec-10:503049 ] - [ INFO ]  testuseclass1 is com.zujuba.springbasic.people.testuseclass@4c44383e
+2018-04-20 19:48:11  [ http-nio-8080-exec-1:504013 ] - [ INFO ]  run in logintest1 
+2018-04-20 19:48:11  [ http-nio-8080-exec-1:504014 ] - [ INFO ]  testuseclass1 is com.zujuba.springbasic.people.testuseclass@7a3e09b8
+2018-04-20 19:50:16  [ http-nio-8080-exec-1:0 ] - [ INFO ]  run in logintest1 
+2018-04-20 19:50:16  [ http-nio-8080-exec-1:2 ] - [ INFO ]  testuseclass1 is  id is 1 name is gogao
+2018-04-20 19:52:09  [ http-nio-8080-exec-2:0 ] - [ INFO ]  run in logintest2 
+2018-04-20 19:52:09  [ http-nio-8080-exec-2:1 ] - [ INFO ]  testuseclass2 is  id is ada
